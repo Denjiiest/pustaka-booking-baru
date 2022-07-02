@@ -16,9 +16,9 @@
     <li class="nav-item">
         <style media="screen">
         </style>
-        <a class="nav-link pb-0" href="<?= base_url('Buku/kategori'); ?>">
+        <a class="nav-link pb-0" href="<?= base_url('admin'); ?>">
             <i class="fas fa-book-open"></i>
-            <span>Kategori Buku2</span></a>
+            <span>Beranda</span></a>
     </li>
     <div class="sidebar-heading">
         Master Data
